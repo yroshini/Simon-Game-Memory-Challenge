@@ -31,8 +31,8 @@
 
 ## 📸 Screenshots
  # At the Start of Simon Game
-![At the Start of Simon Game](./Screenshots/Start-Of-Game.png)
+![At the Start of Simon Game](./Start-Of-Game.png)
 
  # At the End of Simon Game
-![At the End of Simon Game](./Screenshots/End-Of-Game.png)
+![At the End of Simon Game](./End-Of-Game.png)
 
