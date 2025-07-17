@@ -36,3 +36,10 @@
  # At the End of Simon Game
 ![At the End of Simon Game](./End-Of-Game.png)
 
+### 👩‍💻 Developed By
+
+**Roshini Yajjavarapu**  
+📧 *roshini.ece2024.rce@gmail.com*  
+🎓 *B.Tech (Electronics & Communication Engineering)*  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/roshini-y-291905253/)  
+🌍 *Passionate about Full Stack Development & Software Engineering*
